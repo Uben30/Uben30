@@ -2,6 +2,7 @@
 - 👀 I’m interested in Data Science and Data Analysis, with keen interest in Artificial Intelligence.
 - 🌱 I’m currently learning python and SQL for Data Science
 - 📫 How to reach me via https://bento.me/uben30
+- Specialise in E-commerce Client Management and Data Analysis
 
 <!---
 Uben30/Uben30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
