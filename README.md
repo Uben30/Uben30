@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Uben30
-- 👀 I’m interested in Data Science and Data Analysis, with keen interest in Artificial Intelligence.
+- 👀 I’m interested in Data Analysis, with keen interest in Artificial Intelligence.
 - 🌱 I’m currently learning Power Bi and SQL for Data Analytics.
-- 📫 How to reach me via https://bento.me/uben30.
+- 📫 You can reach me via https://bento.me/uben30.
 - Specialise in E-commerce Client Management and Data Analysis.
 
 <!---
